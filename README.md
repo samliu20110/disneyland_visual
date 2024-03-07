@@ -6,6 +6,7 @@ Currently, I have displayed two of my previous projects here.
 The data visualization project was an individual project I have finished during my stay in Monash University.
 The objective is to discover and visualize the ratings of three different Disneyland Branches with reviews from Trip Advisor with over 42,000 visitors all over the world.
 The coding part was finalised in R with package Shiny and Leaflet and the result visualization is interactive.
+Please find the visualization result screenshots in the vis_result folder. 
 The data was obtained from Kaggle.
 
 - Minor Thesis project -
